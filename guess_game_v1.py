@@ -1,6 +1,6 @@
 
 
-secret_word="girafa" 
+secret_word="galo" 
 
 guess=""
 guess_count=0
