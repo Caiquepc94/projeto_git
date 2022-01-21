@@ -1,6 +1,6 @@
 
 
-secret_word="gato" 
+secret_word="gaivota" 
 
 guess=""
 guess_count=0
