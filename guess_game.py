@@ -1,6 +1,6 @@
 
 
-secret_word="elefante" 
+secret_word="ema" 
 
 guess=""
 guess_count=0
