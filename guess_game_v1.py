@@ -1,6 +1,6 @@
 
 
-secret_word="elefante" 
+secret_word="girafa" 
 
 guess=""
 guess_count=0
@@ -15,7 +15,7 @@ while guess != secret_word and not(out_of_guesses):
 		if 2<dif < 4 and guess != secret_word:
 			print("Dica1: animal.")
 		if 1 <dif <3 and guess != secret_word:
-			print("Dica2:Comeca com e.") 
+			print("Dica2:Comeca com g.") 
 	else:
 		out_of_guesses = True
 
