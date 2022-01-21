@@ -1,6 +1,6 @@
 
 
-secret_word="galo" 
+secret_word="gato" 
 
 guess=""
 guess_count=0
